@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: dnsserver
 title:  "[Linux]DNS"
 date:   2022-12-14 23:29:36 +0530
 categories: Linux
